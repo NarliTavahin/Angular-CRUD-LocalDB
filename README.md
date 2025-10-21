@@ -13,8 +13,8 @@ This repository demonstrates a full CRUD (Create, Read, Update, Delete) applicat
 ## Installation
 
 ### Prerequisites
-- Node.js (>=12.0.0)
-- Angular CLI (>=12.0.0)
+- Node.js (>=22.13.1)
+- Angular CLI (>=18.0.3)
 - **json-server** for local API (optional)
 
 ### Steps to Get Started
@@ -138,3 +138,4 @@ export class LocalStorageService {
 ---
 
 Feel free to open issues for bugs or improvements. Happy coding! 🚀
+
